@@ -1,6 +1,12 @@
 # Stebs
+Microcomputer simulator with Webfrontend
 
-Build Server (branch master) [![Build status](https://ci.appveyor.com/api/projects/status/github/thejp/stebs?svg=true)](https://ci.appveyor.com/project/thejp/stebs)
+## Frameworks and Technologies
+Microprocessor, Assembler, C# .NET, SignalR, Unity, Entity Framework, jQuery, TypeScript, CodeMirror
+
+
+## Build Server (branch master) 
+[![Build status](https://ci.appveyor.com/api/projects/status/github/thejp/stebs?svg=true)](https://ci.appveyor.com/project/thejp/stebs)
 
 ## Credits
 
